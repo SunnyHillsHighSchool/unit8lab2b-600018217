@@ -1,3 +1,5 @@
+//Unit 8 Lab Question 2
+//Johnathan Mitri
 public class ProfNames
 {
   public int countNames(String[][]nameArray, String lastName)
